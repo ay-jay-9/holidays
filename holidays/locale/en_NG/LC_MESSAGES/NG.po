@@ -31,82 +31,82 @@ msgstr ""
 #. %s (estimated).
 #, c-format
 msgid "%s (estimated)"
-msgstr ""
+msgstr "%s (estimated)"
 
 #. %s (observed, estimated).
 #, c-format
 msgid "%s (observed, estimated)"
-msgstr ""
+msgstr "%s (observed, estimated)"
 
 #. %s (observed).
 #, c-format
 msgid "%s (observed)"
-msgstr ""
+msgstr "%s (observed)"
 
 #. New Year's Day.
 msgid "New Year's Day"
-msgstr ""
+msgstr "New Year's Day"
 
 #. Good Friday.
 msgid "Good Friday"
-msgstr ""
+msgstr "Good Friday"
 
 #. Easter Monday.
 msgid "Easter Monday"
-msgstr ""
+msgstr "Easter Monday"
 
 #. Workers' Day.
 msgid "Workers' Day"
-msgstr ""
+msgstr "Workers' Day"
 
 #. Democracy Day.
 msgid "Democracy Day"
-msgstr ""
+msgstr "Democracy Day"
 
 #. Presidential Inauguration Day.
 msgid "Presidential Inauguration Day"
-msgstr ""
+msgstr "Presidential Inauguration Day"
 
 #. National Day.
 msgid "National Day"
-msgstr ""
+msgstr "National Day"
 
 #. Christmas Day.
 msgid "Christmas Day"
-msgstr ""
+msgstr "Christmas Day"
 
 #. Boxing Day.
 msgid "Boxing Day"
-msgstr ""
+msgstr "Boxing Day"
 
 #. Prophet's Birthday.
 msgid "Id el Maulud"
-msgstr ""
+msgstr "Id el Maulud"
 
 #. Eid al-Fitr.
 msgid "Id el Fitr"
-msgstr ""
+msgstr "Id el Fitr"
 
 #. Eid al-Fitr Holiday.
 msgid "Id el Fitr Holiday"
-msgstr ""
+msgstr "Id el Fitr Holiday"
 
 #. Eid al-Adha.
 msgid "Id el Kabir"
-msgstr ""
+msgstr "Id el Kabir"
 
 #. Eid al-Adha Holiday.
 msgid "Id el Kabir Holiday"
-msgstr ""
+msgstr "Id el Kabir Holiday"
 
 #. Public Holiday for Elections.
 msgid "Public Holiday for Elections"
-msgstr ""
+msgstr "Public Holiday for Elections"
 
 #. Day of Mourning for President Umaru Yar'Adua.
 msgid "Day of Mourning for President Umaru Yar'Adua"
-msgstr ""
+msgstr "Day of Mourning for President Umaru Yar'Adua"
 
 #. Day of Mourning for President Muhammadu Buhari.
 msgid "Day of Mourning for President Muhammadu Buhari"
-msgstr ""
+msgstr "Day of Mourning for President Muhammadu Buhari"
